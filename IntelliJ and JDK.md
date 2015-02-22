@@ -31,6 +31,7 @@ To install the Java7 JDK:
 Installing the JDK in IntelliJ
 --
 You'll have to set up the JDK in IntelliJ before you can use it.  You only have to do this once.
+
 1. In the lower right click on `Configure`, then select `Project Defaults`, `Project Structure`.
 1. In the second column, click the plus button at the top and select `JDK`.
 1. A file dialog box will open.  In the top-middle, dropdown box, select `Macintosh HD`.
