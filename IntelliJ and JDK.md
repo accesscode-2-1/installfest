@@ -5,6 +5,7 @@ Installing IntelliJ
 IntelliJ is an **IDE**, or Integrated Development Environment.  An IDE makes programming much easier by providing a visual tool for writing, managing, running, and debugging your code.  We will use IntelliJ version 14.
 
 To install IntelliJ:
+
 1. Go to the [IntelliJ download page](https://www.jetbrains.com/idea/download/).
 2. Select the `Download Community` button on the right, to download the free version of the program.  You will download a file named `ideaIC-14.0.3.dmg`.
 3. Once it's finished downloading it, click on it. When the window opens, drag the IntelliJ icon to the Applications folder.
@@ -17,14 +18,15 @@ Installing the JDK
 The **JDK** is the Java Development Kit, which contains the tools you need to compile and run Java programs.  There are multiple versions of Java; in this course, we will use version 7, otherwise known as **Java7**.  Make sure you are using Java7, and not Java6 or Java8.
 
 To install the Java7 JDK:
-- Go to the [Oracle Java7 JDK page](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
-- Accept the license agreement.
-- Download `jdk-7u75-macosx-x64.dmg`.
-- Double-click on the .dmg once it downloads. This will mount the .dmg file as a drive on your computer.
-- When the .dmg mounts, a new window will open. Double-click on the .pkg package file in the window that comes up.
-- In the installer, click `OK`, then `Install`.
-- It will prompt you for your login password.
-- When it's done, find the `jdk update 75` drive icon on your desktop and drop it on the trash.  This unmounts the .dmg file.
+
+1. Go to the [Oracle Java7 JDK page](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+1. Accept the license agreement.
+1. Download `jdk-7u75-macosx-x64.dmg`.
+1. Double-click on the .dmg once it downloads. This will mount the .dmg file as a drive on your computer.
+1. When the .dmg mounts, a new window will open. Double-click on the .pkg package file in the window that comes up.
+1. In the installer, click `OK`, then `Install`.
+1. It will prompt you for your login password.
+1. When it's done, find the `jdk update 75` drive icon on your desktop and drop it on the trash.  This unmounts the .dmg file.
 
 Installing the JDK in IntelliJ
 --
