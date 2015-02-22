@@ -9,7 +9,7 @@ To install IntelliJ:
 1. Go to the [IntelliJ download page](https://www.jetbrains.com/idea/download/).
 2. Select the `Download Community` button on the right, to download the free version of the program.  You will download a file named `ideaIC-14.0.3.dmg`.
 3. Once it's finished downloading it, click on it. When the window opens, drag the IntelliJ icon to the Applications folder.
-4. Drag the `IntelliJ IDEA 14 CE" drive icon from your desktop to the trash can.
+4. Drag the `IntelliJ IDEA 14 CE` drive icon from your desktop to the trash can.
 
 Test that you can open IntelliJ by opening Spotlight (press `⌘-Space`) and typing the first few  letters of IntelliJ.
 
@@ -32,10 +32,10 @@ Installing the JDK in IntelliJ
 --
 You'll have to set up the JDK in IntelliJ before you can use it.  You only have to do this once.
 
-1. In the lower right click on `Configure`, then select `Project Defaults`, `Project Structure`.
+1. In the lower right click on `Configure > Project Defaults > Project Structure`.
 1. In the second column, click the plus button at the top and select `JDK`.
 1. A file dialog box will open.  In the top-middle, dropdown box, select `Macintosh HD`.
-1. Navigate to `Library`, `Java`, `JavaVirtualMachines`.
+1. Navigate to `Library > Java > JavaVirtualMachines`.
 1. There should be an entry named `jdk1.7.0_75.jdk`.  Select (single-click) this and press the `Choose` button in the lower-right.
 1. Click `OK`.
 
