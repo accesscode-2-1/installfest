@@ -5,6 +5,7 @@ We'll be using Git and GitHub in this class to save and share our code. It will 
 * You should already have Git installed on your computer.
 * You already have a GitHub username!
 
+[Let's set up Git!](https://help.github.com/articles/set-up-git/)
 
 ## Setting up SSH Keys
 
