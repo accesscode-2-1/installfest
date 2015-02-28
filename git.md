@@ -14,11 +14,14 @@ __Note:__ The dollar sign (`$`) is commonly used to represent the command line. 
 
 _This guide was taken in huge part from [Github's SSH key guide](https://help.github.com/articles/generating-ssh-keys/). Feel free to refer to that guide directly, but be aware that there are differences._
 
-## Step 1: Check for SSH keys
+### Step 1: Open your terminal
+
+
+### Step 2: Check for SSH keys
 
 Since we will be using new Macbooks, there shouldn't be any pre-existing SSH keys. Let's continue and generate one!
 
-## Step 2: Generate a new SSH key
+### Step 3: Generate a new SSH key
 
 To generate a new SSH key, copy and paste the text below, making sure to substitute in your email address. The default settings are preferred, so when you're prompted to "Enter a file in which to save the key", just press __Enter__ to continue.
 
@@ -56,7 +59,7 @@ Agent pid 59566
 $ ssh-add ~/.ssh/id_rsa
 ```
 
-## Step 3: Add your SSH key to your account
+## Step 4: Add your SSH key to your account
 
 Run the following command to copy the key to your clipboard.
 
@@ -79,7 +82,7 @@ $ pbcopy < ~/.ssh/id_rsa.pub
 
 7. Confirm the action by entering your GitHub password.
 
-## Step 4: Test everything out
+### Step 5: Test everything out
 
 To make sure everything is working, you'll now try SSHing to GitHub. When you do this, you will be asked to authenticate this action using your password, which was the passphrase you created earlier.
 
@@ -108,4 +111,4 @@ If that username is yours, you've successfully set up your SSH key! Don't worry 
 
 If you receive a message about "access denied," you can [read these instructions for diagnosing the issue](https://help.github.com/articles/error-permission-denied-publickey).
 
-## Congrats, you generated your SSH key!
+### Congrats, you generated your SSH key!
