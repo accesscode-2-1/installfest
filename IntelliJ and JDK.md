@@ -1,8 +1,8 @@
 Follow these instructions to install the basic software you will need to write programs in Java. You will use the _IntelliJ IDE_ and the _Java7 JDK_.
 
-**Alternate links:**
-- [Oracle Java7 JDK](https://drive.google.com/file/d/0B8ga0y5taeMYUHBnX0NYSHBGaTg/view?usp=sharing)
+**Alternate download links:**
 - [IntelliJ IDEA 14 CE](https://drive.google.com/file/d/0B8ga0y5taeMYWWJiSG5adzR2MUk/view?usp=sharing)
+- [Oracle Java7 JDK](https://drive.google.com/file/d/0B8ga0y5taeMYUHBnX0NYSHBGaTg/view?usp=sharing)
 
 
 
