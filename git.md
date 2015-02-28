@@ -14,7 +14,9 @@ __Note:__ The dollar sign (`$`) is commonly used to represent the command line. 
 
 _This guide was taken in huge part from [Github's SSH key guide](https://help.github.com/articles/generating-ssh-keys/). Feel free to refer to that guide directly, but be aware that there are differences._
 
-### Step 1: Open your terminal
+### Step 1: Open your Terminal
+
+The terminal is an application provides text-based access to the operating system.
 
 
 ### Step 2: Check for SSH keys
