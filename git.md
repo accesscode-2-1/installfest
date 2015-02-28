@@ -6,7 +6,7 @@ We'll be using Git and GitHub in this class to save and share our code. It will 
 * You already have a GitHub username!
 
 
-## Setting up SSH Keys
+## Setting up SSH Keyss
 
 SSH keys are a way to identify trusted computers, without involving passwords. The steps below will walk you through generating an SSH key and then adding the public key to your GitHub account. Doing this will make the process of using Github more seamless and more secure.
 
