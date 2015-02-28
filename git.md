@@ -2,10 +2,9 @@
 
 We'll be using Git and GitHub in this class to save and share our code. It will be an **INTEGRAL** part of everything we do.
 
-* You should already have Git installed on your computer
+* You should already have Git installed on your computer.
 * You already have a GitHub username!
 
-===
 
 ## Setting up SSH Keys
 
